@@ -1,5 +1,5 @@
 public class Person {
-  Bil3 bilPerson;    // definerer variabel bilperson som har bil3 objekt typen
+  private Bil3 bilPerson;    // definerer variabel bilperson som har bil3 objekt typen
   public Person(Bil3 bil){
     // konstruktor for objekt
       bilPerson = bil;
